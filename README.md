@@ -1,5 +1,7 @@
 # Squad Seeding Launcher
 
+# ***AT THE MOMENT THIS IS BROKEN DO NOT USE ***
+
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Squad](https://img.shields.io/badge/Built%20for-Squad-111111?style=for-the-badge)
 ![Installer](https://img.shields.io/badge/Install-Run%20the%20EXE-2EA44F?style=for-the-badge)
